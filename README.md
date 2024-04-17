@@ -47,7 +47,7 @@ List the technologies, libraries, and frameworks used in your project.
 ## Authors <!--- do not change this line -->
 
 This project was completed in collaboration with:
-- Betty Cheng ([bettyc1@uw.edu](mailto:bettyc1@uw.edu) and [GitHub profile](https://github.com/bettyc1))
+- Betty Cheng ([bettyc1@uw.edu](mailto:bettyc1@uw.edu) and [GitHub profile](https://github.com/Betty-Cheng))
 - Emily Rosenfeld ([erosenfeld7@gatech.edu](mailto:erosenfeld7@gatech.edu) and [GitHub profile]())
 - Brianna Stan ([brianna-alexand.stan@yale.edu](mailto:brianna-alexand.stan@yale.edu) and [GitHub profile]())
 - Mridul Pahwa ([mpahw002@fiu.edu](mailto:mpahw002@fiu.edu) and [GitHub profile]())
