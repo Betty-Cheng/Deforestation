@@ -25,8 +25,6 @@ Kaggle Dataset: [Link](https://www.kaggle.com/c/dsc6232-rwanda-summer2020-hw2/ov
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
 - Python
 - pandas
 - numpy
