@@ -11,7 +11,9 @@ The ability to predict deforestation using satellite imagery is not only crucial
 
 ## Key Results <!--- do not change this line -->
 
-- Model accuracy rate of 80% from training sets
+- Computer vision model has an accuracy rate of 80% from training sets
+- Creates a bar chart indicates the proportion of 0 and 1 labels based on the training set
+- Enable users to save and download a submission file of results
 
 
 ## Methodologies <!--- do not change this line -->
